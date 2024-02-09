@@ -1,0 +1,12 @@
+body {width:800px;
+     height:600px; 
+     padding:20px;
+     text-align:center; 
+     border: 10px;
+}
+
+.form {
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-end;
+}
